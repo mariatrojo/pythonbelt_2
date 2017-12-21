@@ -1,0 +1,46 @@
+*{
+	font-family: Helvetica, Arial, sans-serif;
+	color: rgb(88, 88, 88);
+}
+
+.wrapper{
+	margin: 40px 30px;
+	width: 800px;
+}
+
+.left, .right{
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 50px;
+}
+
+.register, .login{
+	background: rgb(207, 226, 216);
+	padding: 15px 25px;
+}
+.form{
+	text-align: right;
+}
+table{
+	border: 1px solid black;
+	padding:10px;
+}
+td{
+	padding:5px;
+}
+
+.flash{
+	color: rgb(240, 175, 101);
+}
+a:link{
+	color: rgb(255, 155, 67);
+}
+a:visited{
+	color: rgb(168, 153, 140);
+}
+a:hover{
+	color: rgb(255, 89, 67);
+}
+a:active{
+	color:rgb(155, 190, 97);
+}
